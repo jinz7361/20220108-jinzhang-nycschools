@@ -1,9 +1,11 @@
 ## 20220108-JinZhang-NYCSchools
 
-- This iOS App show all the high schools within NYC along with the SAT Scores
+- This iOS App shows all the high schools within NYC along with the SAT Scores
 ### Screenshots
  <img src="https://gitlab.com/jinz7361/20220108-jinzhang-nycschools/-/raw/main/Screenshots/Screenshots1.png" width="300">
+
  <img src="https://gitlab.com/jinz7361/20220108-jinzhang-nycschools/-/raw/main/Screenshots/Screenshots2.png" width="300">
+ 
  <img src="https://gitlab.com/jinz7361/20220108-jinzhang-nycschools/-/raw/main/Screenshots/Screenshots3.png" width="300">
 
  ### Requirements 
