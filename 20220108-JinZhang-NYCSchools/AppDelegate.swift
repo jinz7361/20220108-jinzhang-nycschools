@@ -2,15 +2,14 @@
 //  AppDelegate.swift
 //  20220108-JinZhang-NYCSchools
 //
-//  Created by Grace on 1/8/22.
+//  Created by Jin on 1/8/22.
 //
 
 import UIKit
 
+@available(iOS 13.0, *)
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.

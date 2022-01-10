@@ -2,7 +2,7 @@
 //  _0220108_JinZhang_NYCSchoolsUITests.swift
 //  20220108-JinZhang-NYCSchoolsUITests
 //
-//  Created by Grace on 1/8/22.
+//  Created by Jin on 1/8/22.
 //
 
 import XCTest
