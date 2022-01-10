@@ -2,7 +2,7 @@
 //  Constants.swift
 //  20220108-JinZhang-NYCSchools
 //
-//  Created by Grace on 1/8/22.
+//  Created by Jin on 1/8/22.
 //
 
 import Foundation
